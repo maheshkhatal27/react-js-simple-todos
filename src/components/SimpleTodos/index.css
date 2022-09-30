@@ -1,0 +1,29 @@
+.todo-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.simple-to-do-container {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ff8542;
+  font-size: 35px;
+}
+.todo-item-container {
+  background-color: #ffffff;
+  flex-direction: column;
+  justify-content: center;
+}
